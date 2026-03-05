@@ -1,3 +1,8 @@
+## 1.0.3
+
+- Bumped version to 1.0.3
+- Kept README and pubspec metadata in sync
+
 ## 1.0.2
 
 - Bumped version metadata for pub.dev

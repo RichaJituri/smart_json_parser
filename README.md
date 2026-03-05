@@ -1,5 +1,13 @@
 # smart_json_parser
 
+Author: **Richa Jituri**  
+GitHub: https://github.com/RichaJituri
+
+[![pub package](https://img.shields.io/pub/v/smart_json_parser.svg)](https://pub.dev/packages/smart_json_parser)
+[![GitHub](https://img.shields.io/badge/GitHub-RichaJituri-black?logo=github)](https://github.com/RichaJituri)
+[![GitHub Stars](https://img.shields.io/github/stars/RichaJituri/smart_json_parser?style=social)](https://github.com/RichaJituri/smart_json_parser)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 `smart_json_parser` is a lightweight helper for safely reading values from dynamic JSON in Dart and Flutter apps, avoiding runtime crashes from inconsistent API responses.
 
 ---
@@ -20,7 +28,7 @@ Add `smart_json_parser` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  smart_json_parser: ^1.0.2
+  smart_json_parser: ^1.0.3
 ```
 
 Then run:
