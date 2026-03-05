@@ -1,0 +1,12 @@
+# General Dart / Flutter tool artifacts
+.dart_tool/
+build/
+.packages
+pubspec.lock
+
+# Coverage reports
+coverage/
+
+# Example app build artifacts
+example/build/
+example/.dart_tool/
