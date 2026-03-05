@@ -20,7 +20,7 @@ Add `smart_json_parser` to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  smart_json_parser: ^1.0.1
+  smart_json_parser: ^1.0.2
 ```
 
 Then run:

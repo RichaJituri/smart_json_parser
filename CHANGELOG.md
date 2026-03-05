@@ -1,3 +1,8 @@
+## 1.0.2
+
+- Bumped version metadata for pub.dev
+- Synced README installation snippet with latest version
+
 ## 1.0.1
 
 - Fixed pub.dev scoring issues
