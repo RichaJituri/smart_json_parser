@@ -2,9 +2,9 @@ name: smart_json_parser
 description: Safely parse JSON values in Dart and Flutter apps without runtime crashes.
 version: 1.0.1
 
-homepage: https://github.com/Richa/smart_json_parser
-repository: https://github.com/Richa/smart_json_parser
-issue_tracker: https://github.com/Richa/smart_json_parser/issues
+homepage: https://github.com/RichaJituri/smart_json_parser
+repository: https://github.com/RichaJituri/smart_json_parser
+issue_tracker: https://github.com/RichaJituri/smart_json_parser/issues
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
